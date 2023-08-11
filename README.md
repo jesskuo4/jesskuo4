@@ -22,5 +22,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about growing up in America, Taiwan, and Shanghai! Or my study abroad plans for this coming Fall in Korea. Or studying at the University of Washington! 
 - 📫 How to reach me: email (jesskuo4@github.com) or linkedin (www.linkedin.com/in/jkuokuo)
 - 😄 Pronouns: she/her
-![Minion](https://github.com/jesskuo4/jesskuo4/assets/131988618/9671cd85-5e23-4a1f-ba02-0dee1219b927)
-
