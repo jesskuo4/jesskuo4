@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on the GitHub Copilot Design Team as a Product Designer.
-- 🌱 I’m currently learning how to design more beautiful and intuitive experiences, make better travel plans, play volleyball better, and be a better human 🙆‍♀️
-- 👯 I’m looking to collaborate on anything design, entrepeneurship, or up-and-rising tech related! Share with me news articles, your views on the world, or anything in between. I love hearing people's stories 🥰
-- 😄 Pronouns: she/her
+- 🌱 Learning how to design more beautiful and intuitive experiences, make better travel plans, play volleyball better, and be a better human 🙆‍♀️
+- 👯 Let's collaborate on anything design, entrepeneurship, or up-and-rising tech related! Share with me news articles + your views on the world.
